@@ -1,0 +1,10 @@
+                                          0                    1         2
+Start Train Model          Fecha Ejecucion:  2022-06-29 19:41:11          
+Modelo LDA         Tiempo de entrenamiento:                    4  segundos
+Modelo NB          Tiempo de entrenamiento:                    6  segundos
+Modelo SVM         Tiempo de entrenamiento:                  221  segundos
+Modelo RFC         Tiempo de entrenamiento:                  147  segundos
+Modelo KNN         Tiempo de entrenamiento:                    8  segundos
+Modelo QDA         Tiempo de entrenamiento:                    2  segundos
+Modelo DT          Tiempo de entrenamiento:                    2  segundos
+End Train Model         Fecha Finalizacion:  2022-06-29 19:47:40          
